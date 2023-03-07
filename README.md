@@ -5,7 +5,6 @@ This applications makes use of OOP principals, reads, and writes data to a text 
 The project performs the following functions:
 ### Reads shoe data from a file
 Reads shoe data from file, creates an object for each shoe and stores the objects into a list
-list of shoe objects
 
 ### Captures a shoe
 Prompts the user to enter information related to a shoe they'd like to capture, creates an
@@ -24,7 +23,7 @@ allows the user to search for a shoe by its index then displays the shoe's infor
 it in a readable format
 
 ### Items value
-Displays the total value of each shoe in the inventory by multiplying each shoe's price by it's quantity
+Displays the total value of each shoe in the inventory by multiplying each shoe's price by its quantity
 
 ### Display shoe on sale
 Displays a shoe with the highest quantity and displays it as being on sale
